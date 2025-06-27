@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6 {
     transform: scaleY(0);
     opacity: 0;
     transform-origin: 10% 0%;
-    overflow: hidden;
+    /* overflow: hidden; */
     display: block;
     /* visibility: hidden;
     transform: perspective(600px) rotate(-90deg); */
